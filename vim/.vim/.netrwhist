@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/usr/facebook/ops/scripts/git/repositories'
+let g:netrw_dirhist_2='/home/jiqingt/verify-1m'
+let g:netrw_dirhist_3='/data/users/jiqingt/configerator/source/hbase/cluster_configs/titanshadow059-frc3'
+let g:netrw_dirhist_4='/data/users/jiqingt/fbcode/hbase/migration/tools/tf'
+let g:netrw_dirhist_5='/data/users/jiqingt/fbcode/hbase/migration/tools/verification/scripts'
